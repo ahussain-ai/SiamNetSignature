@@ -2,16 +2,16 @@ SiamNetSignature
 Signature Verification Using Siamese Neural Network
 
 ### Table of Contents
-# Overview
-# Features
-# Installation
-# Usage
-# Dataset Preparation
-# Training
-# Evaluation
-# Visualization
-# Contributing
-# License
+### Overview
+### Features
+### Installation
+### Usage
+### Dataset Preparation
+### Training
+### Evaluation
+### Visualization
+### Contributing
+### License
 
 
 # Overview
