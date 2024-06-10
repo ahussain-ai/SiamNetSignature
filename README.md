@@ -20,7 +20,9 @@ The SiamNetSignature project leverages the following core technologies:
 Two identical subnetworks process two input images (signatures).
 Each subnetwork extracts features from the input signature.
 The network measures the distance between the two feature vectors to determine the similarity.
-TensorFlow and Keras:
+![Siamese_network](siamese_network.png)
+
+#### TensorFlow and Keras:
 
 The project is implemented using TensorFlow and Keras, popular libraries for building and training neural networks.
 These frameworks provide robust support for defining and training complex models, such as Siamese networks.
@@ -36,9 +38,5 @@ Handles variations in signature images, such as different sizes and orientations
 #### Repository Structure
 The repository is organized to facilitate easy navigation and understanding of the codebase. Here’s a breakdown of the main components:
 
-datasets/: Contains scripts and tools for downloading, preparing, and managing signature datasets.
-models/: Houses the definition of the Siamese network architecture used for signature verification.
-scripts/: Includes various scripts for training the model, evaluating its performance, and visualizing results.
-notebooks/: Jupyter notebooks for interactive model training and evaluation, useful for experimentation and visualization.
-utils/: Utility functions for tasks such as data augmentation, image preprocessing, and more.
-examples/: Example images and datasets for quick testing and demonstration.
+##### datasets/: Contains scripts and tools for downloading, preparing, and managing signature datasets.
+
