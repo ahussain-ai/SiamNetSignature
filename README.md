@@ -39,4 +39,15 @@ Handles variations in signature images, such as different sizes and orientations
 The repository is organized to facilitate easy navigation and understanding of the codebase. Here’s a breakdown of the main components:
 
 
-
+SiamNetSignature/
+│
+├── datasets/
+│   └── load_dataset.py      # Script for loading and preparing the signature dataset.
+│
+├── models/
+│   └── siamese_model.py     # Definition of the Siamese network architecture.
+│
+├── scripts/
+│   ├── train.py             # Script to train the Siamese network.
+│   ├── evaluate.py          # Script to evaluate the trained model.
+│   └── visualize.py         # Script for visualizing model performance.
