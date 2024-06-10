@@ -38,5 +38,5 @@ Handles variations in signature images, such as different sizes and orientations
 #### Repository Structure
 The repository is organized to facilitate easy navigation and understanding of the codebase. Here’s a breakdown of the main components:
 
-##### datasets/: Contains scripts and tools for downloading, preparing, and managing signature datasets.
+
 
